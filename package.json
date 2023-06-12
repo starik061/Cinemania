@@ -1,8 +1,8 @@
 {
-  "name": "parcel-project-template",
+  "name": "Cinemania",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/N0T4/Cinemania",
+  "homepage": "https://github.com/starik061/Cinemania",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Cinemania/"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Yaroslav Puhch <starik061@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
